@@ -1,20 +1,22 @@
-1;Flavio;Ricci;m;54
-2;Ruggero;Bianchi;m;27
-3;Omar;Ferrara;m;37
-4;Teodoro;Ferraro;m;28
-5;Pasquale;Donati;m;57
-6;Leo;Rizzi;m;57
-7;Gaspare;Gallo;m;31
-8;Rino;Benedetti;m;49
-9;Bruno;Martinelli;m;23
-10;Ruggero;Coppola;m;36
-11;Marcella;Ferrara;f;37
-12;Linda;Valentini;f;62
-13;Amelia;Bernardi;f;36
-14;Denise;Serra;f;32
-15;Angelica;Ferrara;f;46
-16;Ketty;Rossi;f;65
-17;Linda;Bianchi;f;38
-18;Dorotea;Basile;f;58
-19;Tiziana;Bianchi;f;46
-20;Amelia;Marino;f;43
+[
+{"id":1,"nome":"Nicola","cognome":"Rossi","sesso":"M","eta":22},
+{"id":2,"nome":"Eliseo","cognome":"Moretti","sesso":"M","eta":33},
+{"id":3,"nome":"Roberto","cognome":"Galli","sesso":"M","eta":31},
+{"id":4,"nome":"Giuseppe","cognome":"De Angelis","sesso":"M","eta":37},
+{"id":5,"nome":"Nicola","cognome":"Bianco","sesso":"M","eta":59},
+{"id":6,"nome":"Salvatore","cognome":"Martino","sesso":"M","eta":44},
+{"id":7,"nome":"Luciano","cognome":"Ferrara","sesso":"M","eta":18},
+{"id":8,"nome":"Flavio","cognome":"Mariani","sesso":"M","eta":45},
+{"id":9,"nome":"Duccio","cognome":"De Luca","sesso":"M","eta":19},
+{"id":10,"nome":"Pio","cognome":"Giordano","sesso":"M","eta":48},
+{"id":11,"nome":"Paola","cognome":"Martini","sesso":"M","eta":44},
+{"id":12,"nome":"Marisa","cognome":"De Angelis","sesso":"M","eta":64},
+{"id":13,"nome":"Agnese","cognome":"Rossetti","sesso":"M","eta":30},
+{"id":14,"nome":"Katia","cognome":"Monti","sesso":"M","eta":18},
+{"id":15,"nome":"Silvana","cognome":"Bianchi","sesso":"M","eta":39},
+{"id":16,"nome":"Noemi","cognome":"Russo","sesso":"M","eta":22},
+{"id":17,"nome":"Simona","cognome":"Amato","sesso":"M","eta":19},
+{"id":18,"nome":"Alessia","cognome":"Marino","sesso":"M","eta":28},
+{"id":19,"nome":"Aurora","cognome":"Martino","sesso":"M","eta":52},
+{"id":20,"nome":"Dina","cognome":"Riva","sesso":"M","eta":48}
+]
